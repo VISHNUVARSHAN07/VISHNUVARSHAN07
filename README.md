@@ -5,7 +5,7 @@
 
 - 🌱 I’m an Aspiring **Java Developer**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Java, SQL, Python, Adobe Premiere Pro**
 
 - 📫 How to reach me **vishnuvarshan2002@gmail.com**
 
