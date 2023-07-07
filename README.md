@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, SQL, Python, Adobe Premiere Pro**
 
-- 📫 How to reach me <a href="vishnuvarshan2002@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+- 📫 How to reach me <a href="mailto:vishnuvarshan2002@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
