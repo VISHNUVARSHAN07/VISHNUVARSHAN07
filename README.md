@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuvarshan07&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuvarshan07" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m an Aspiring **Java Developer**
 
 - 💬 Ask me about **Python**
 
