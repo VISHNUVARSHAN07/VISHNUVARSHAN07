@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, SQL, Python, Adobe Premiere Pro**
 
-- 📫 How to reach me **[Vishnu Varshan](vishnuvarshan2002@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
+- 📫 How to reach me <a href="vishnuvarshan2002@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
