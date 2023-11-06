@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuvarshan07&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuvarshan07" /> </p>
 
-- 🌱 I’m an Aspiring **Java Developer**
+- 🌱 I’m an **Software Developer**
 
-- 💬 Ask me about **Java, SQL, Python, Adobe Premiere Pro**
+- 💬 Ask me about **HTML, Tailwind CSS, JavaScript,Material UI,React,SQL, Python, Java , Adobe Premiere Pro**
 
 - 📫 How to reach me <a href="mailto:vishnuvarshan2002@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
